@@ -1,4 +1,4 @@
-# My GSoC 2024 Journey with CCExtractor
+# My GSoC 2025 Journey with CCExtractor
 
 Three months ago, I was just another computer science student at Medhavi Skills University, scrolling through GSoC organization lists and wondering if I'd ever be good enough to contribute to real open-source projects. Today, I'm writing this blog after successfully completing my first Google Summer of Code with CCExtractor, having worked on the Ultimate Alarm Clock project.
 
@@ -209,14 +209,14 @@ Oh, and make sure your actual alarm clock works while you're building alarm cloc
 ### Project Repository
 
 **GitHub**: [CCExtractor/ultimate_alarm_clock](https://github.com/CCExtractor/ultimate_alarm_clock)
-**GSoC 2024 Features**: Available in the main branch
+**GSoC 2025 Features**: Available in the main branch
 **Final Submission Commit**: [9e93856](https://github.com/CCExtractor/ultimate_alarm_clock/commit/9e93856)
 
 ---
 
 **Author**: Mahendra Kasula  
 **University**: Medhavi Skills University  
-**GSoC 2024 Organization**: CCExtractor  
+**GSoC 2025 Organization**: CCExtractor  
 **Contact**: kasulamahi624@gmail.com  
 **LinkedIn**: [MAHENDRA KASULA](https://linkedin.com/in/mahendra-kasula)  
 **GitHub**: [mahendra-918](https://github.com/mahendra-918)
