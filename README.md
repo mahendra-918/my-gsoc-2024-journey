@@ -152,7 +152,28 @@ Your final submission included **22 comprehensive screenshots** showcasing all i
 
 ### 🌟 Featured Screenshots from GSoC Final Submission
 
-
+![WhatsApp Image 2025-08-31 at 23 54 47](https://github.com/user-attachments/assets/8b633175-342f-4f24-8c36-d69bd7a091f7)
+![WhatsApp Image 2025-08-31 at 23 54 48 (1)](https://github.com/user-attachments/assets/bc1750b7-77cc-406c-a894-7608adb545bf)
+![WhatsApp Image 2025-08-31 at 23 54 48](https://github.com/user-attachments/assets/7915f959-7b57-427e-9e97-ed01dbeb2a87)
+![WhatsApp Image 2025-08-31 at 23 54 56](https://github.com/user-attachments/assets/9003c382-4e82-4cc2-a899-6e420afcdb13)
+![WhatsApp Image 2025-08-31 at 23 54 58](https://github.com/user-attachments/assets/754036f0-d82a-473d-bd5a-8316104d021a)
+![WhatsApp Image 2025-08-31 at 23 55 00](https://github.com/user-attachments/assets/a65c5b4c-aece-4319-bbc9-30aa12a5bb96)
+![WhatsApp Image 2025-08-31 at 23 55 01 (1)](https://github.com/user-attachments/assets/c50c54a6-c347-46e1-a0f0-c7d80a9223ff)
+![WhatsApp Image 2025-08-31 at 23 55 01](https://github.com/user-attachments/assets/0abf5c6d-ead1-45e8-8499-603c1ff327a3)
+![WhatsApp Image 2025-08-31 at 23 55 02](https://github.com/user-attachments/assets/08e0e030-5980-491c-aef2-babac8c398a6)
+![WhatsApp Image 2025-08-31 at 23 55 03](https://github.com/user-attachments/assets/d319b0e3-c220-4830-8a71-f84bb557b870)
+![WhatsApp Image 2025-08-31 at 23 55 04](https://github.com/user-attachments/assets/8ee7911c-1eb8-4487-8047-fab549b82c8e)
+![WhatsApp Image 2025-08-31 at 23 55 09](https://github.com/user-attachments/assets/806228cd-9c59-4c31-afc0-c0ecb79a4c6a)
+![WhatsApp Image 2025-08-31 at 23 55 10](https://github.com/user-attachments/assets/d5dfb64c-6abd-4787-b540-2ca5458b0965)
+![WhatsApp Image 2025-08-31 at 23 55 11](https://github.com/user-attachments/assets/11cc5d04-9860-414d-a91e-a0e788fdbc00)
+![WhatsApp Image 2025-08-31 at 23 55 12](https://github.com/user-attachments/assets/c416aaaf-27d0-433a-8411-44149687b82e)
+![WhatsApp Image 2025-08-31 at 23 55 13](https://github.com/user-attachments/assets/71288b36-14b5-45d9-bc62-4f19f9f7a26f)
+![WhatsApp Image 2025-08-31 at 23 55 14 (1)](https://github.com/user-attachments/assets/d80bdb54-83d0-425c-be35-960bc1906f3c)
+![WhatsApp Image 2025-08-31 at 23 55 14](https://github.com/user-attachments/assets/999eb9c8-3b72-444f-93af-24649b11ac1e)
+![WhatsApp Image 2025-08-31 at 23 55 15](https://github.com/user-attachments/assets/b1432541-3cb7-4a3b-a6f7-5237451045f2)
+![WhatsApp Image 2025-08-31 at 23 55 16 (1)](https://github.com/user-attachments/assets/1dfe7490-0a48-4fe4-af39-fbac87fad59d)
+![WhatsApp Image 2025-08-31 at 23 55 16](https://github.com/user-attachments/assets/4a6f8cc7-74c1-4909-a372-45a4ad6e6c1e)
+![WhatsApp Image 2025-08-31 at 23 55 17 (1)](https://github.com/user-attachments/assets/6049377d-bb50-46e2-b242-987be6ac913a)
 
 
 *All screenshots captured from the final working implementation in PR #846*
